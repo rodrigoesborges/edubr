@@ -7,7 +7,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/rodrigoesborges/edubr/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/rodrigoesborges/edubr/blob/v0.2.0/DESCRIPTION)
 
 Borges R (2026). *edubr: Acquisition and Reading of Educational Data
 from MEC and INEP*. R package version 0.2.0,
