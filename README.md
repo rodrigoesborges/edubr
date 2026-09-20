@@ -1,6 +1,7 @@
 # edubr
 
 [![R-CMD-check](https://github.com/rodrigoesborges/edubr/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rodrigoesborges/edubr/actions/workflows/R-CMD-check.yaml)
+[![Documentação](https://img.shields.io/badge/docs-pkgdown-blue.svg)](https://rodrigoesborges.github.io/edubr/)
 
 Acesso facilitado aos dados educacionais do Brasil (MEC/INEP).
 

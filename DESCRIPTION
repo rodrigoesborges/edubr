@@ -18,7 +18,7 @@ Description: Download and tidy Brazilian basic education indicators published by
     their hierarchical multi-row headers, and return harmonized long-format
     tibbles.
 License: GPL-3
-URL: https://github.com/rodrigoesborges/edubr
+URL: https://rodrigoesborges.github.io/edubr/, https://github.com/rodrigoesborges/edubr
 BugReports: https://github.com/rodrigoesborges/edubr/issues
 Encoding: UTF-8
 LazyData: true

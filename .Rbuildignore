@@ -9,3 +9,6 @@
 ^microdados_censo_cache$
 ^data/2025-.*backup-metainep\.rda$
 ^LICENSE$
+^_pkgdown\.yml$
+^docs$
+^\.github$

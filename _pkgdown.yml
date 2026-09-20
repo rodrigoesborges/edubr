@@ -1,0 +1,31 @@
+url: https://rodrigoesborges.github.io/edubr/
+lang: pt-BR
+
+template:
+  bootstrap: 5
+  bootswatch: cosmo
+
+home:
+  title: "edubr: dados educacionais do MEC/INEP no R"
+
+reference:
+  - title: Leitura de bases do INEP
+    desc: >
+      Funções que baixam os arquivos públicos do INEP/MEC, interpretam os
+      cabeçalhos hierárquicos das planilhas e devolvem dados em formato longo
+      (tidy), com um ano por chamada.
+    contents:
+      - le_ideb
+      - le_afd
+      - le_idadeserie
+  - title: Dados internos
+    desc: Metadados e tabelas auxiliares incluídas no pacote.
+    contents:
+      - metainep
+      - metaideb
+      - campi_municipios
+
+news:
+  releases:
+    - text: Version 0.2.0
+      href: https://github.com/rodrigoesborges/edubr/releases/tag/v0.2.0
