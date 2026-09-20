@@ -5,7 +5,7 @@
 #' @export
 le_censoescolar <- \(ano=2023) {
 
-  censoescolarmeta <- educabR::metainep|>dplyr::filter(grepl("Microdados da Educação Básica",tabela,fixed = F))
+  censoescolarmeta <- edubr::metainep|>dplyr::filter(grepl("Microdados da Educação Básica",tabela,fixed = F))
 
   caminho_fonte <- (censoescolarmeta|>
     dplyr::filter(grepl(ano,tab_url)))$tab_url

@@ -2,17 +2,22 @@
 #'
 #' @param ano number , year
 #' @param regiao character , one of escolas,municipios, ufs
-#' @param localizacao character, one of "total","urbana","rural"
-#' @param dependencia character, one of "total","publica","privada","estadual","municipal"
-#' @param nivel character, one of infantil,ensino_fundamental,ensino_medio,eja_fundamental,eja_medio
-#' @param subnivel character, one of total,anos_iniciais,anos_finais
+#' @param localizacoes character, one of "total","urbana","rural"
+#' @param dependencias character, one of "total","publica","privada","estadual","municipal"
+#' @param niveis character, one of infantil,ensino_fundamental,ensino_medio,eja_fundamental,eja_medio
+#' @param subniveis character, one of total,anos_iniciais,anos_finais
 #' @param cache_dir character, optional directory to cache downloads
 #'   (avoids re-downloading from INEP CDN which rate-limits sequential calls)
 #' @return Tibble com dados formatados
+#' @examples
+#' \dontrun{
+#' dados <- le_afd(ano = 2024, regiao = "municipios", niveis = "ensino_medio")
+#' head(dados)
+#' }
 #' @export
 le_afd <- \(ano=2024,regiao="municipios",localizacoes='total',dependencias='total',niveis="ensino_medio",subniveis='total',cache_dir=NULL) {
 
-  afdmeta <- educabR::metainep|>dplyr::filter(grepl("Adequação",assunto,fixed = F))
+  afdmeta <- edubr::metainep|>dplyr::filter(grepl("Adequa\u00e7\u00e3o",assunto,fixed = F))
 
   caminho_fonte <- (afdmeta|>
                       dplyr::filter(grepl(regiao,tolower(tab_url)),grepl(ano,tab_url)))$tab_url
@@ -54,9 +59,9 @@ le_afd <- \(ano=2024,regiao="municipios",localizacoes='total',dependencias='tota
     }, maxErrors = 5, sleep = 1)
   }
 
-  availf <- unzip(f,list=T)
+  availf <- utils::unzip(f,list=T)
 
-  unzip(f,files = availf[grepl("xlsx",availf$Name),]$Name,junkpaths = T,
+  utils::unzip(f,files = availf[grepl("xlsx",availf$Name),]$Name,junkpaths = T,
         exdir = dirname(f))
 
   caminho_arquivo <-
@@ -88,7 +93,7 @@ le_afd <- \(ano=2024,regiao="municipios",localizacoes='total',dependencias='tota
     df <- df |>
     t() |>
     as.data.frame(stringsAsFactors = FALSE) |>
-    tidyr::fill(everything(), .direction = "down") |>
+    tidyr::fill(dplyr::everything(), .direction = "down") |>
     t() |>
     as.data.frame(stringsAsFactors = FALSE)
     return(df)
@@ -96,7 +101,7 @@ le_afd <- \(ano=2024,regiao="municipios",localizacoes='total',dependencias='tota
 
   # Combinar cabeçalhos hierárquicos
   colunas <- apply(preenchecols(cabecalho), 2, function(col) {
-    paste(na.omit(col), collapse = "9")  # Combina hierarquia com "."
+    paste(stats::na.omit(col), collapse = "9")  # Combina hierarquia com "."
   })
 
   # Ler dados (ignorando cabeçalhos hierárquicos)

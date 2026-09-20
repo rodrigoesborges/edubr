@@ -2,7 +2,7 @@
 % Please edit documentation in R/le_idadeserie.R
 \name{le_idadeserie}
 \alias{le_idadeserie}
-\title{Processa arquivo CSV e dicion XLSX de resultados do idadeserie com colunas hierárquicas - NÃO TERMINADO!}
+\title{Processa arquivo XLS de taxas de distorção idade-série (TDI) com colunas hierárquicas}
 \usage{
 le_idadeserie(ano = 2023)
 }
@@ -13,5 +13,11 @@ le_idadeserie(ano = 2023)
 Tibble com dados formatados
 }
 \description{
-Processa arquivo CSV e dicion XLSX de resultados do idadeserie com colunas hierárquicas - NÃO TERMINADO!
+Processa arquivo XLS de taxas de distorção idade-série (TDI) com colunas hierárquicas
+}
+\examples{
+\dontrun{
+dados <- le_idadeserie(ano = 2023)
+head(dados)
+}
 }

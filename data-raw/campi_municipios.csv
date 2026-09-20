@@ -1,0 +1,780 @@
+nome_campus;sigla_universidade;tipo;ano_criacao_campus;codigo_municipio;nome_municipio
+CEFET/MG - Araxá;CEFET/MG;instituto federal;2008;3104007;Araxá
+CEFET/MG - Belo Horizonte;CEFET/MG;instituto federal;2008;3106200;Belo Horizonte
+CEFET/MG - Contagem;CEFET/MG;instituto federal;2023;3118601;Contagem
+CEFET/MG - Curvelo;CEFET/MG;instituto federal;2013;3120904;Curvelo
+CEFET/MG - Divinópolis;CEFET/MG;instituto federal;2008;3122306;Divinópolis
+CEFET/MG - Leopoldina;CEFET/MG;instituto federal;2008;3138401;Leopoldina
+CEFET/MG - Nepomuceno;CEFET/MG;instituto federal;2015;3144607;Nepomuceno
+CEFET/MG - Timóteo;CEFET/MG;instituto federal;2009;3168705;Timóteo
+CEFET/MG - Varginha;CEFET/MG;instituto federal;2016;3170701;Varginha
+CEFET/RJ - Angra dos Reis;CEFET/RJ;instituto federal;2014;3300100;Angra dos Reis
+CEFET/RJ - Itaguaí;CEFET/RJ;instituto federal;2010;3302007;Itaguaí
+CEFET/RJ - Nova Friburgo;CEFET/RJ;instituto federal;2008;3303401;Nova Friburgo
+CEFET/RJ - Nova Iguaçu;CEFET/RJ;instituto federal;2008;3303500;Nova Iguaçu
+CEFET/RJ - Petrópolis;CEFET/RJ;instituto federal;2008;3303906;Petrópolis
+CEFET/RJ - Rio de Janeiro;CEFET/RJ;instituto federal;2008;3304557;Rio de Janeiro
+CEFET/RJ - Valença;CEFET/RJ;instituto federal;2014;3306107;Valença
+CP II - Rio de Janeiro;CP II;instituto federal;2020;3304557;Rio de Janeiro
+FURG - Rio Grande;FURG;universidade;2008;4315602;Rio Grande
+FURG - Santa Vitória do Palmar;FURG;universidade;2010;4317301;Santa Vitória do Palmar
+FURG - Santo Antônio da Patrulha;FURG;universidade;2009;4317608;Santo Antônio da Patrulha
+FURG - São Lourenço do Sul;FURG;universidade;2010;4318804;São Lourenço do Sul
+IF Catarinense - Abelardo Luz;IF Catarinense;instituto federal;2018;4200101;Abelardo Luz
+IF Catarinense - Araquari;IF Catarinense;instituto federal;2010;4201307;Araquari
+IF Catarinense - Blumenau;IF Catarinense;instituto federal;2013;4202404;Blumenau
+IF Catarinense - Brusque;IF Catarinense;instituto federal;2017;4202909;Brusque
+IF Catarinense - Camboriú;IF Catarinense;instituto federal;2010;4203204;Camboriú
+IF Catarinense - Concórdia;IF Catarinense;instituto federal;2008;4204301;Concórdia
+IF Catarinense - Fraiburgo;IF Catarinense;instituto federal;2018;4205506;Fraiburgo
+IF Catarinense - Ibirama;IF Catarinense;instituto federal;2014;4206900;Ibirama
+IF Catarinense - Luzerna;IF Catarinense;instituto federal;2011;4210035;Luzerna
+IF Catarinense - Rio do Sul;IF Catarinense;instituto federal;2008;4214805;Rio do Sul
+IF Catarinense - Santa Rosa do Sul;IF Catarinense;instituto federal;2010;4215653;Santa Rosa do Sul
+IF Catarinense - Sombrio;IF Catarinense;instituto federal;2013;4217709;Sombrio
+IF Catarinense - São Bento do Sul;IF Catarinense;instituto federal;2017;4215802;São Bento do Sul
+IF Catarinense - São Francisco do Sul;IF Catarinense;instituto federal;2012;4216206;São Francisco do Sul
+IF Catarinense - Videira;IF Catarinense;instituto federal;2011;4219309;Videira
+IF Fluminense - Bom Jesus do Itabapoana;IF Fluminense;instituto federal;2010;3300605;Bom Jesus do Itabapoana
+IF Fluminense - Cabo Frio;IF Fluminense;instituto federal;2009;3300704;Cabo Frio
+IF Fluminense - Campos dos Goytacazes;IF Fluminense;instituto federal;2008;3301009;Campos dos Goytacazes
+IF Fluminense - Itaperuna;IF Fluminense;instituto federal;2013;3302205;Itaperuna
+IF Fluminense - Macaé;IF Fluminense;instituto federal;2008;3302403;Macaé
+IF Fluminense - Santo Antônio de Pádua;IF Fluminense;instituto federal;2023;3304706;Santo Antônio de Pádua
+IF Goiano - Campos Belos;IF Goiano;instituto federal;2019;5204904;Campos Belos
+IF Goiano - Catalão;IF Goiano;instituto federal;2019;5205109;Catalão
+IF Goiano - Ceres;IF Goiano;instituto federal;2009;5205406;Ceres
+IF Goiano - Cristalina;IF Goiano;instituto federal;2018;5206206;Cristalina
+IF Goiano - Goiânia;IF Goiano;instituto federal;2008;5208707;Goiânia
+IF Goiano - Hidrolândia;IF Goiano;instituto federal;2019;5209705;Hidrolândia
+IF Goiano - Ipameri;IF Goiano;instituto federal;2017;5210109;Ipameri
+IF Goiano - Iporá;IF Goiano;instituto federal;2011;5210208;Iporá
+IF Goiano - Morrinhos;IF Goiano;instituto federal;2009;5213806;Morrinhos
+IF Goiano - Posse;IF Goiano;instituto federal;2018;5218300;Posse
+IF Goiano - Rio Verde;IF Goiano;instituto federal;2008;5218805;Rio Verde
+IF Goiano - Trindade;IF Goiano;instituto federal;2018;5221403;Trindade
+IF Goiano - Urutaí;IF Goiano;instituto federal;2008;5221809;Urutaí
+IF SERTÃO-PE - Floresta;IF SERTÃO-PE;instituto federal;2009;2605707;Floresta
+IF SERTÃO-PE - Ouricuri;IF SERTÃO-PE;instituto federal;2010;2609907;Ouricuri
+IF SERTÃO-PE - Petrolina;IF SERTÃO-PE;instituto federal;2008;2611101;Petrolina
+IF SERTÃO-PE - Salgueiro;IF SERTÃO-PE;instituto federal;2011;2612208;Salgueiro
+IF SERTÃO-PE - Santa Maria da Boa Vista;IF SERTÃO-PE;instituto federal;2019;2612604;Santa Maria da Boa Vista
+IF SERTÃO-PE - Serra Talhada;IF SERTÃO-PE;instituto federal;2017;2613909;Serra Talhada
+IF SUL DE MINAS - Carmo de Minas;IF SUL DE MINAS;instituto federal;2020;3114105;Carmo de Minas
+IF SUL DE MINAS - Inconfidentes;IF SUL DE MINAS;instituto federal;2008;3130606;Inconfidentes
+IF SUL DE MINAS - Machado;IF SUL DE MINAS;instituto federal;2008;3139003;Machado
+IF SUL DE MINAS - Muzambinho;IF SUL DE MINAS;instituto federal;2008;3144102;Muzambinho
+IF SUL DE MINAS - Passos;IF SUL DE MINAS;instituto federal;2015;3147907;Passos
+IF SUL DE MINAS - Pouso Alegre;IF SUL DE MINAS;instituto federal;2014;3152501;Pouso Alegre
+IF SUL DE MINAS - Poços de Caldas;IF SUL DE MINAS;instituto federal;2014;3151800;Poços de Caldas
+IFAC - Cruzeiro do Sul;IFAC;instituto federal;2011;1200203;Cruzeiro do Sul
+IFAC - Rio Branco;IFAC;instituto federal;2011;1200401;Rio Branco
+IFAC - Sena Madureira;IFAC;instituto federal;2011;1200500;Sena Madureira
+IFAC - Tarauacá;IFAC;instituto federal;2019;1200609;Tarauacá
+IFAC - Xapuri;IFAC;instituto federal;2011;1200708;Xapuri
+IFAL - Arapiraca;IFAL;instituto federal;2019;2700300;Arapiraca
+IFAL - Maceió;IFAL;instituto federal;2008;2704302;Maceió
+IFAL - Maragogi;IFAL;instituto federal;2023;2704500;Maragogi
+IFAL - Marechal Deodoro;IFAL;instituto federal;2008;2704708;Marechal Deodoro
+IFAL - Palmeira dos Índios;IFAL;instituto federal;2008;2706307;Palmeira dos Índios
+IFAL - Penedo;IFAL;instituto federal;2022;2706703;Penedo
+IFAL - Piranhas;IFAL;instituto federal;2016;2707107;Piranhas
+IFAL - Satuba;IFAL;instituto federal;2008;2708907;Satuba
+IFAM - Coari;IFAM;instituto federal;2023;1301209;Coari
+IFAM - Itacoatiara;IFAM;instituto federal;2021;1301902;Itacoatiara
+IFAM - Manaus;IFAM;instituto federal;2008;1302603;Manaus
+IFAM - Maués;IFAM;instituto federal;2023;1302900;Maués
+IFAM - Parintins;IFAM;instituto federal;2019;1303403;Parintins
+IFAM - Presidente Figueiredo;IFAM;instituto federal;2019;1303536;Presidente Figueiredo
+IFAP - Laranjal do Jari;IFAP;instituto federal;2014;1600279;Laranjal do Jari
+IFAP - Macapá;IFAP;instituto federal;2011;1600303;Macapá
+IFAP - Oiapoque;IFAP;instituto federal;2022;1600501;Oiapoque
+IFAP - Porto Grande;IFAP;instituto federal;2018;1600535;Porto Grande
+IFAP - Santana;IFAP;instituto federal;2017;1600600;Santana
+IFB - Brasília;IFB;instituto federal;2010;5300108;Brasília
+IFBA - Barreiras;IFBA;instituto federal;2008;2903201;Barreiras
+IFBA - Brumado;IFBA;instituto federal;2018;2904605;Brumado
+IFBA - Camaçari;IFBA;instituto federal;2012;2905701;Camaçari
+IFBA - Eunápolis;IFBA;instituto federal;2008;2910727;Eunápolis
+IFBA - Feira de Santana;IFBA;instituto federal;2017;2910800;Feira de Santana
+IFBA - Irecê;IFBA;instituto federal;2015;2914604;Irecê
+IFBA - Jacobina;IFBA;instituto federal;2015;2917508;Jacobina
+IFBA - Jequié;IFBA;instituto federal;2019;2918001;Jequié
+IFBA - Lauro de Freitas;IFBA;instituto federal;2018;2919207;Lauro de Freitas
+IFBA - Paulo Afonso;IFBA;instituto federal;2012;2924009;Paulo Afonso
+IFBA - Porto Seguro;IFBA;instituto federal;2010;2925303;Porto Seguro
+IFBA - Salvador;IFBA;instituto federal;2008;2927408;Salvador
+IFBA - Santo Amaro;IFBA;instituto federal;2010;2928604;Santo Amaro
+IFBA - Santo Antônio de Jesus;IFBA;instituto federal;2018;2928703;Santo Antônio de Jesus
+IFBA - Simões Filho;IFBA;instituto federal;2011;2930709;Simões Filho
+IFBA - Valença;IFBA;instituto federal;2010;2932903;Valença
+IFBA - Vitória da Conquista;IFBA;instituto federal;2008;2933307;Vitória da Conquista
+IFBAIANO - Bom Jesus da Lapa;IFBAIANO;instituto federal;2015;2903904;Bom Jesus da Lapa
+IFBAIANO - Catu;IFBAIANO;instituto federal;2010;2907509;Catu
+IFBAIANO - Guanambi;IFBAIANO;instituto federal;2010;2911709;Guanambi
+IFBAIANO - Itapetinga;IFBAIANO;instituto federal;2021;2916401;Itapetinga
+IFBAIANO - Salvador;IFBAIANO;instituto federal;2010;2927408;Salvador
+IFBAIANO - Santa Inês;IFBAIANO;instituto federal;2010;2927903;Santa Inês
+IFBAIANO - Senhor do Bonfim;IFBAIANO;instituto federal;2010;2930105;Senhor do Bonfim
+IFBAIANO - Serrinha;IFBAIANO;instituto federal;2018;2930501;Serrinha
+IFBAIANO - Teixeira de Freitas;IFBAIANO;instituto federal;2018;2931350;Teixeira de Freitas
+IFBAIANO - Uruçuca;IFBAIANO;instituto federal;2013;2932705;Uruçuca
+IFBAIANO - Valença;IFBAIANO;instituto federal;2019;2932903;Valença
+IFCE - Acaraú;IFCE;instituto federal;2010;2300200;Acaraú
+IFCE - Acopiara;IFCE;instituto federal;2018;2300309;Acopiara
+IFCE - Aracati;IFCE;instituto federal;2011;2301109;Aracati
+IFCE - Baturité;IFCE;instituto federal;2010;2302107;Baturité
+IFCE - Boa Viagem;IFCE;instituto federal;2017;2302404;Boa Viagem
+IFCE - Camocim;IFCE;instituto federal;2015;2302602;Camocim
+IFCE - Canindé;IFCE;instituto federal;2010;2302800;Canindé
+IFCE - Caucaia;IFCE;instituto federal;2019;2303709;Caucaia
+IFCE - Cedro;IFCE;instituto federal;2008;2303808;Cedro
+IFCE - Crateús;IFCE;instituto federal;2010;2304103;Crateús
+IFCE - Crato;IFCE;instituto federal;2010;2304202;Crato
+IFCE - Fortaleza;IFCE;instituto federal;2008;2304400;Fortaleza
+IFCE - Horizonte;IFCE;instituto federal;2019;2305233;Horizonte
+IFCE - Iguatu;IFCE;instituto federal;2008;2305506;Iguatu
+IFCE - Itapipoca;IFCE;instituto federal;2018;2306405;Itapipoca
+IFCE - Jaguaribe;IFCE;instituto federal;2011;2306900;Jaguaribe
+IFCE - Jaguaruana;IFCE;instituto federal;2023;2307007;Jaguaruana
+IFCE - Juazeiro do Norte;IFCE;instituto federal;2008;2307304;Juazeiro do Norte
+IFCE - Limoeiro do Norte;IFCE;instituto federal;2009;2307601;Limoeiro do Norte
+IFCE - Maracanaú;IFCE;instituto federal;2008;2307650;Maracanaú
+IFCE - Maranguape;IFCE;instituto federal;2018;2307700;Maranguape
+IFCE - Morada Nova;IFCE;instituto federal;2016;2308708;Morada Nova
+IFCE - Paracuru;IFCE;instituto federal;2017;2310209;Paracuru
+IFCE - Quixadá;IFCE;instituto federal;2009;2311306;Quixadá
+IFCE - Sobral;IFCE;instituto federal;2009;2312908;Sobral
+IFCE - Tabuleiro do Norte;IFCE;instituto federal;2020;2313104;Tabuleiro do Norte
+IFCE - Tauá;IFCE;instituto federal;2010;2313302;Tauá
+IFCE - Tianguá;IFCE;instituto federal;2010;2313401;Tianguá
+IFCE - Ubajara;IFCE;instituto federal;2014;2313609;Ubajara
+IFCE - Umirim;IFCE;instituto federal;2017;2313757;Umirim
+IFES - Alegre;IFES;instituto federal;2008;3200201;Alegre
+IFES - Aracruz;IFES;instituto federal;2010;3200607;Aracruz
+IFES - Barra de São Francisco;IFES;instituto federal;2018;3200904;Barra de São Francisco
+IFES - Cachoeiro de Itapemirim;IFES;instituto federal;2009;3201209;Cachoeiro de Itapemirim
+IFES - Cariacica;IFES;instituto federal;2009;3201308;Cariacica
+IFES - Colatina;IFES;instituto federal;2008;3201506;Colatina
+IFES - Guarapari;IFES;instituto federal;2014;3202405;Guarapari
+IFES - Ibatiba;IFES;instituto federal;2017;3202454;Ibatiba
+IFES - Linhares;IFES;instituto federal;2016;3203205;Linhares
+IFES - Montanha;IFES;instituto federal;2018;3203502;Montanha
+IFES - Nova Venécia;IFES;instituto federal;2014;3203908;Nova Venécia
+IFES - Piúma;IFES;instituto federal;2012;3204203;Piúma
+IFES - Santa Maria de Jetibá;IFES;instituto federal;2019;3204559;Santa Maria de Jetibá
+IFES - Santa Teresa;IFES;instituto federal;2010;3204609;Santa Teresa
+IFES - Serra;IFES;instituto federal;2008;3205002;Serra
+IFES - São Mateus;IFES;instituto federal;2010;3204906;São Mateus
+IFES - Venda Nova do Imigrante;IFES;instituto federal;2015;3205069;Venda Nova do Imigrante
+IFES - Viana;IFES;instituto federal;2015;3205101;Viana
+IFES - Vila Velha;IFES;instituto federal;2011;3205200;Vila Velha
+IFES - Vitória;IFES;instituto federal;2008;3205309;Vitória
+IFFarroupilha - Alegrete;IFFarroupilha;instituto federal;2008;4300406;Alegrete
+IFFarroupilha - Frederico Westphalen;IFFarroupilha;instituto federal;2015;4308508;Frederico Westphalen
+IFFarroupilha - Jaguari;IFFarroupilha;instituto federal;2014;4311106;Jaguari
+IFFarroupilha - Júlio de Castilhos;IFFarroupilha;instituto federal;2009;4311205;Júlio de Castilhos
+IFFarroupilha - Panambi;IFFarroupilha;instituto federal;2010;4313904;Panambi
+IFFarroupilha - Santa Maria;IFFarroupilha;instituto federal;2008;4316907;Santa Maria
+IFFarroupilha - Santa Rosa;IFFarroupilha;instituto federal;2011;4317202;Santa Rosa
+IFFarroupilha - Santo Augusto;IFFarroupilha;instituto federal;2008;4317806;Santo Augusto
+IFFarroupilha - Santo Ângelo;IFFarroupilha;instituto federal;2015;4317509;Santo Ângelo
+IFFarroupilha - São Borja;IFFarroupilha;instituto federal;2012;4318002;São Borja
+IFFarroupilha - São Vicente do Sul;IFFarroupilha;instituto federal;2008;4319802;São Vicente do Sul
+IFG - Anápolis;IFG;instituto federal;2010;5201108;Anápolis
+IFG - Aparecida de Goiânia;IFG;instituto federal;2012;5201405;Aparecida de Goiânia
+IFG - Formosa;IFG;instituto federal;2010;5208004;Formosa
+IFG - Goiás;IFG;instituto federal;2015;5208905;Goiás
+IFG - Goiânia;IFG;instituto federal;2008;5208707;Goiânia
+IFG - Inhumas;IFG;instituto federal;2008;5210000;Inhumas
+IFG - Itumbiara;IFG;instituto federal;2008;5211503;Itumbiara
+IFG - Jataí;IFG;instituto federal;2008;5211909;Jataí
+IFG - Luziânia;IFG;instituto federal;2010;5212501;Luziânia
+IFG - Senador Canedo;IFG;instituto federal;2019;5220454;Senador Canedo
+IFG - Uruaçu;IFG;instituto federal;2008;5221601;Uruaçu
+IFG - Valparaíso de Goiás;IFG;instituto federal;2015;5221858;Valparaíso de Goiás
+IFG - Águas Lindas de Goiás;IFG;instituto federal;2019;5200258;Águas Lindas de Goiás
+IFMA - Alcântara;IFMA;instituto federal;2010;2100204;Alcântara
+IFMA - Açailândia;IFMA;instituto federal;2010;2100055;Açailândia
+IFMA - Bacabal;IFMA;instituto federal;2012;2101202;Bacabal
+IFMA - Barra do Corda;IFMA;instituto federal;2017;2101608;Barra do Corda
+IFMA - Barreirinhas;IFMA;instituto federal;2013;2101707;Barreirinhas
+IFMA - Buriticupu;IFMA;instituto federal;2010;2102325;Buriticupu
+IFMA - Caxias;IFMA;instituto federal;2008;2103000;Caxias
+IFMA - Codó;IFMA;instituto federal;2010;2103307;Codó
+IFMA - Coelho Neto;IFMA;instituto federal;2021;2103406;Coelho Neto
+IFMA - Imperatriz;IFMA;instituto federal;2009;2105302;Imperatriz
+IFMA - Pedreiras;IFMA;instituto federal;2021;2108207;Pedreiras
+IFMA - Pinheiro;IFMA;instituto federal;2021;2108603;Pinheiro
+IFMA - Santa Inês;IFMA;instituto federal;2010;2109908;Santa Inês
+IFMA - São José de Ribamar;IFMA;instituto federal;2018;2111201;São José de Ribamar
+IFMA - São João dos Patos;IFMA;instituto federal;2013;2111102;São João dos Patos
+IFMA - São Luís;IFMA;instituto federal;2008;2111300;São Luís
+IFMA - São Raimundo das Mangabeiras;IFMA;instituto federal;2012;2111607;São Raimundo das Mangabeiras
+IFMA - Timon;IFMA;instituto federal;2012;2112209;Timon
+IFMA - Zé Doca;IFMA;instituto federal;2010;2114007;Zé Doca
+IFMG - Arcos;IFMG;instituto federal;2016;3104205;Arcos
+IFMG - Bambuí;IFMG;instituto federal;2008;3105103;Bambuí
+IFMG - Belo Horizonte;IFMG;instituto federal;2008;3106200;Belo Horizonte
+IFMG - Betim;IFMG;instituto federal;2015;3106705;Betim
+IFMG - Congonhas;IFMG;instituto federal;2010;3118007;Congonhas
+IFMG - Formiga;IFMG;instituto federal;2008;3126109;Formiga
+IFMG - Governador Valadares;IFMG;instituto federal;2010;3127701;Governador Valadares
+IFMG - Ibirité;IFMG;instituto federal;2019;3129806;Ibirité
+IFMG - Ipatinga;IFMG;instituto federal;2017;3131307;Ipatinga
+IFMG - Itabirito;IFMG;instituto federal;2015;3131901;Itabirito
+IFMG - Ouro Branco;IFMG;instituto federal;2012;3145901;Ouro Branco
+IFMG - Ouro Preto;IFMG;instituto federal;2008;3146107;Ouro Preto
+IFMG - Piumhi;IFMG;instituto federal;2014;3151503;Piumhi
+IFMG - Ponte Nova;IFMG;instituto federal;2020;3152105;Ponte Nova
+IFMG - Ribeirão das Neves;IFMG;instituto federal;2011;3154606;Ribeirão das Neves
+IFMG - Sabará;IFMG;instituto federal;2011;3156700;Sabará
+IFMG - Santa Luzia;IFMG;instituto federal;2014;3157807;Santa Luzia
+IFMG - São João Evangelista;IFMG;instituto federal;2008;3162807;São João Evangelista
+IFMS - Aquidauana;IFMS;instituto federal;2011;5001102;Aquidauana
+IFMS - Campo Grande;IFMS;instituto federal;2011;5002704;Campo Grande
+IFMS - Corumbá;IFMS;instituto federal;2011;5003207;Corumbá
+IFMS - Coxim;IFMS;instituto federal;2011;5003306;Coxim
+IFMS - Dourados;IFMS;instituto federal;2018;5003702;Dourados
+IFMS - Jardim;IFMS;instituto federal;2018;5005004;Jardim
+IFMS - Naviraí;IFMS;instituto federal;2016;5005707;Naviraí
+IFMS - Nova Andradina;IFMS;instituto federal;2011;5006200;Nova Andradina
+IFMS - Ponta Porã;IFMS;instituto federal;2011;5006606;Ponta Porã
+IFMS - Três Lagoas;IFMS;instituto federal;2011;5008305;Três Lagoas
+IFMT - Alta Floresta;IFMT;instituto federal;2016;5100250;Alta Floresta
+IFMT - Barra do Garças;IFMT;instituto federal;2017;5101803;Barra do Garças
+IFMT - Campo Novo do Parecis;IFMT;instituto federal;2008;5102637;Campo Novo do Parecis
+IFMT - Campo Verde;IFMT;instituto federal;2010;5102678;Campo Verde
+IFMT - Confresa;IFMT;instituto federal;2011;5103353;Confresa
+IFMT - Cuiabá;IFMT;instituto federal;2008;5103403;Cuiabá
+IFMT - Cáceres;IFMT;instituto federal;2011;5102504;Cáceres
+IFMT - Diamantino;IFMT;instituto federal;2017;5103502;Diamantino
+IFMT - Guarantã do Norte;IFMT;instituto federal;2017;5104104;Guarantã do Norte
+IFMT - Jaciara;IFMT;instituto federal;2011;5104807;Jaciara
+IFMT - Juína;IFMT;instituto federal;2011;5105150;Juína
+IFMT - Lucas do Rio Verde;IFMT;instituto federal;2018;5105259;Lucas do Rio Verde
+IFMT - Pontes e Lacerda;IFMT;instituto federal;2009;5106752;Pontes e Lacerda
+IFMT - Primavera do Leste;IFMT;instituto federal;2015;5107040;Primavera do Leste
+IFMT - Rondonópolis;IFMT;instituto federal;2013;5107602;Rondonópolis
+IFMT - Santo Antônio de Leverger;IFMT;instituto federal;2009;5107800;Santo Antônio de Leverger
+IFMT - Sorriso;IFMT;instituto federal;2012;5107925;Sorriso
+IFMT - Tangará da Serra;IFMT;instituto federal;2018;5107958;Tangará da Serra
+IFMT - Várzea Grande;IFMT;instituto federal;2017;5108402;Várzea Grande
+IFNMG - Almenara;IFNMG;instituto federal;2013;3101706;Almenara
+IFNMG - Araçuaí;IFNMG;instituto federal;2011;3103405;Araçuaí
+IFNMG - Arinos;IFNMG;instituto federal;2011;3104502;Arinos
+IFNMG - Januária;IFNMG;instituto federal;2008;3135209;Januária
+IFNMG - Montes Claros;IFNMG;instituto federal;2012;3143302;Montes Claros
+IFNMG - Pirapora;IFNMG;instituto federal;2011;3151206;Pirapora
+IFNMG - Porteirinha;IFNMG;instituto federal;2018;3152204;Porteirinha
+IFNMG - Salinas;IFNMG;instituto federal;2008;3157005;Salinas
+IFNMG - Teófilo Otoni;IFNMG;instituto federal;2017;3168606;Teófilo Otoni
+IFPA - Abaetetuba;IFPA;instituto federal;2009;1500107;Abaetetuba
+IFPA - Altamira;IFPA;instituto federal;2009;1500602;Altamira
+IFPA - Ananindeua;IFPA;instituto federal;2021;1500800;Ananindeua
+IFPA - Belém;IFPA;instituto federal;2008;1501402;Belém
+IFPA - Bragança;IFPA;instituto federal;2009;1501709;Bragança
+IFPA - Breves;IFPA;instituto federal;2012;1501808;Breves
+IFPA - Castanhal;IFPA;instituto federal;2010;1502400;Castanhal
+IFPA - Conceição do Araguaia;IFPA;instituto federal;2009;1502707;Conceição do Araguaia
+IFPA - Itaituba;IFPA;instituto federal;2012;1503606;Itaituba
+IFPA - Marabá;IFPA;instituto federal;2009;1504208;Marabá
+IFPA - Paragominas;IFPA;instituto federal;2022;1505502;Paragominas
+IFPA - Parauapebas;IFPA;instituto federal;2017;1505536;Parauapebas
+IFPA - Santarém;IFPA;instituto federal;2012;1506807;Santarém
+IFPA - Tucuruí;IFPA;instituto federal;2009;1508100;Tucuruí
+IFPA - Óbidos;IFPA;instituto federal;2022;1505106;Óbidos
+IFPB - Cabedelo;IFPB;instituto federal;2009;2503209;Cabedelo
+IFPB - Cajazeiras;IFPB;instituto federal;2008;2503704;Cajazeiras
+IFPB - Campina Grande;IFPB;instituto federal;2008;2504009;Campina Grande
+IFPB - Esperança;IFPB;instituto federal;2023;2506004;Esperança
+IFPB - Guarabira;IFPB;instituto federal;2012;2506301;Guarabira
+IFPB - João Pessoa;IFPB;instituto federal;2008;2507507;João Pessoa
+IFPB - Monteiro;IFPB;instituto federal;2009;2509701;Monteiro
+IFPB - Patos;IFPB;instituto federal;2009;2510808;Patos
+IFPB - Picuí;IFPB;instituto federal;2009;2511400;Picuí
+IFPB - Princesa Isabel;IFPB;instituto federal;2009;2512309;Princesa Isabel
+IFPB - Sousa;IFPB;instituto federal;2009;2516201;Sousa
+IFPE - Abreu e Lima;IFPE;instituto federal;2023;2600054;Abreu e Lima
+IFPE - Afogados da Ingazeira;IFPE;instituto federal;2019;2600104;Afogados da Ingazeira
+IFPE - Barreiros;IFPE;instituto federal;2011;2601409;Barreiros
+IFPE - Belo Jardim;IFPE;instituto federal;2011;2601706;Belo Jardim
+IFPE - Cabo de Santo Agostinho;IFPE;instituto federal;2019;2602902;Cabo de Santo Agostinho
+IFPE - Caruaru;IFPE;instituto federal;2012;2604106;Caruaru
+IFPE - Garanhuns;IFPE;instituto federal;2017;2606002;Garanhuns
+IFPE - Igarassu;IFPE;instituto federal;2018;2606804;Igarassu
+IFPE - Ipojuca;IFPE;instituto federal;2011;2607208;Ipojuca
+IFPE - Jaboatão dos Guararapes;IFPE;instituto federal;2020;2607901;Jaboatão dos Guararapes
+IFPE - Olinda;IFPE;instituto federal;2023;2609600;Olinda
+IFPE - Palmares;IFPE;instituto federal;2022;2610004;Palmares
+IFPE - Paulista;IFPE;instituto federal;2019;2610707;Paulista
+IFPE - Pesqueira;IFPE;instituto federal;2008;2610905;Pesqueira
+IFPE - Recife;IFPE;instituto federal;2008;2611606;Recife
+IFPE - Vitória de Santo Antão;IFPE;instituto federal;2011;2616407;Vitória de Santo Antão
+IFPI - Angical do Piauí;IFPI;instituto federal;2010;2200608;Angical do Piauí
+IFPI - Campo Maior;IFPI;instituto federal;2018;2202208;Campo Maior
+IFPI - Cocal;IFPI;instituto federal;2016;2202703;Cocal
+IFPI - Corrente;IFPI;instituto federal;2010;2202901;Corrente
+IFPI - Floriano;IFPI;instituto federal;2008;2203909;Floriano
+IFPI - Oeiras;IFPI;instituto federal;2017;2207009;Oeiras
+IFPI - Parnaíba;IFPI;instituto federal;2009;2207702;Parnaíba
+IFPI - Paulistana;IFPI;instituto federal;2016;2207801;Paulistana
+IFPI - Pedro II;IFPI;instituto federal;2016;2207900;Pedro II
+IFPI - Picos;IFPI;instituto federal;2009;2208007;Picos
+IFPI - Piripiri;IFPI;instituto federal;2010;2208403;Piripiri
+IFPI - São João do Piauí;IFPI;instituto federal;2017;2210003;São João do Piauí
+IFPI - São Raimundo Nonato;IFPI;instituto federal;2011;2210607;São Raimundo Nonato
+IFPI - Teresina;IFPI;instituto federal;2008;2211001;Teresina
+IFPI - Uruçuí;IFPI;instituto federal;2010;2211209;Uruçuí
+IFPI - Valença do Piauí;IFPI;instituto federal;2018;2211308;Valença do Piauí
+IFPR - Assis Chateaubriand;IFPR;instituto federal;2015;4102000;Assis Chateaubriand
+IFPR - Campo Largo;IFPR;instituto federal;2016;4104204;Campo Largo
+IFPR - Capanema;IFPR;instituto federal;2019;4104501;Capanema
+IFPR - Cascavel;IFPR;instituto federal;2018;4104808;Cascavel
+IFPR - Colombo;IFPR;instituto federal;2019;4105805;Colombo
+IFPR - Curitiba;IFPR;instituto federal;2009;4106902;Curitiba
+IFPR - Foz do Iguaçu;IFPR;instituto federal;2014;4108304;Foz do Iguaçu
+IFPR - Irati;IFPR;instituto federal;2015;4110706;Irati
+IFPR - Ivaiporã;IFPR;instituto federal;2015;4111506;Ivaiporã
+IFPR - Jacarezinho;IFPR;instituto federal;2015;4111803;Jacarezinho
+IFPR - Jaguariaíva;IFPR;instituto federal;2019;4112009;Jaguariaíva
+IFPR - Londrina;IFPR;instituto federal;2011;4113700;Londrina
+IFPR - Palmas;IFPR;instituto federal;2010;4117602;Palmas
+IFPR - Paranaguá;IFPR;instituto federal;2011;4118204;Paranaguá
+IFPR - Paranavaí;IFPR;instituto federal;2014;4118402;Paranavaí
+IFPR - Pinhais;IFPR;instituto federal;2020;4119152;Pinhais
+IFPR - Pitanga;IFPR;instituto federal;2018;4119608;Pitanga
+IFPR - Telêmaco Borba;IFPR;instituto federal;2014;4127106;Telêmaco Borba
+IFPR - Umuarama;IFPR;instituto federal;2015;4128104;Umuarama
+IFPR - União da Vitória;IFPR;instituto federal;2019;4128203;União da Vitória
+IFRJ - Arraial do Cabo;IFRJ;instituto federal;2020;3300258;Arraial do Cabo
+IFRJ - Duque de Caxias;IFRJ;instituto federal;2009;3301702;Duque de Caxias
+IFRJ - Engenheiro Paulo de Frontin;IFRJ;instituto federal;2014;3301801;Engenheiro Paulo de Frontin
+IFRJ - Nilópolis;IFRJ;instituto federal;2008;3303203;Nilópolis
+IFRJ - Paracambi;IFRJ;instituto federal;2011;3303609;Paracambi
+IFRJ - Pinheiral;IFRJ;instituto federal;2017;3303955;Pinheiral
+IFRJ - Rio de Janeiro;IFRJ;instituto federal;2008;3304557;Rio de Janeiro
+IFRJ - Volta Redonda;IFRJ;instituto federal;2009;3306305;Volta Redonda
+IFRN - Apodi;IFRN;instituto federal;2009;2401008;Apodi
+IFRN - Caicó;IFRN;instituto federal;2009;2402006;Caicó
+IFRN - Canguaretama;IFRN;instituto federal;2015;2402204;Canguaretama
+IFRN - Ceará-Mirim;IFRN;instituto federal;2020;2402600;Ceará-Mirim
+IFRN - Currais Novos;IFRN;instituto federal;2009;2403103;Currais Novos
+IFRN - Ipanguaçu;IFRN;instituto federal;2009;2404705;Ipanguaçu
+IFRN - João Câmara;IFRN;instituto federal;2009;2405801;João Câmara
+IFRN - Macau;IFRN;instituto federal;2009;2407203;Macau
+IFRN - Mossoró;IFRN;instituto federal;2009;2408003;Mossoró
+IFRN - Natal;IFRN;instituto federal;2008;2408102;Natal
+IFRN - Nova Cruz;IFRN;instituto federal;2015;2408300;Nova Cruz
+IFRN - Parnamirim;IFRN;instituto federal;2014;2403251;Parnamirim
+IFRN - Pau dos Ferros;IFRN;instituto federal;2009;2409407;Pau dos Ferros
+IFRN - Santa Cruz;IFRN;instituto federal;2009;2411205;Santa Cruz
+IFRN - São Gonçalo do Amarante;IFRN;instituto federal;2014;2412005;São Gonçalo do Amarante
+IFRN - São Paulo do Potengi;IFRN;instituto federal;2019;2412609;São Paulo do Potengi
+IFRO - Ariquemes;IFRO;instituto federal;2013;1100023;Ariquemes
+IFRO - Cacoal;IFRO;instituto federal;2014;1100049;Cacoal
+IFRO - Colorado do Oeste;IFRO;instituto federal;2008;1100064;Colorado do Oeste
+IFRO - Guajará-Mirim;IFRO;instituto federal;2018;1100106;Guajará-Mirim
+IFRO - Jaru;IFRO;instituto federal;2019;1100114;Jaru
+IFRO - Ji-Paraná;IFRO;instituto federal;2012;1100122;Ji-Paraná
+IFRO - Porto Velho;IFRO;instituto federal;2012;1100205;Porto Velho
+IFRO - São Miguel do Guaporé;IFRO;instituto federal;2022;1100320;São Miguel do Guaporé
+IFRO - Vilhena;IFRO;instituto federal;2012;1100304;Vilhena
+IFRR - Amajari;IFRR;instituto federal;2016;1400027;Amajari
+IFRR - Boa Vista;IFRR;instituto federal;2008;1400100;Boa Vista
+IFRR - Caracaraí;IFRR;instituto federal;2019;1400209;Caracaraí
+IFRS - Alvorada;IFRS;instituto federal;2019;4300604;Alvorada
+IFRS - Bento Gonçalves;IFRS;instituto federal;2008;4302105;Bento Gonçalves
+IFRS - Canoas;IFRS;instituto federal;2011;4304606;Canoas
+IFRS - Caxias do Sul;IFRS;instituto federal;2010;4305108;Caxias do Sul
+IFRS - Erechim;IFRS;instituto federal;2011;4307005;Erechim
+IFRS - Farroupilha;IFRS;instituto federal;2011;4307906;Farroupilha
+IFRS - Feliz;IFRS;instituto federal;2011;4308102;Feliz
+IFRS - Ibirubá;IFRS;instituto federal;2011;4310009;Ibirubá
+IFRS - Osório;IFRS;instituto federal;2011;4313508;Osório
+IFRS - Porto Alegre;IFRS;instituto federal;2010;4314902;Porto Alegre
+IFRS - Rio Grande;IFRS;instituto federal;2010;4315602;Rio Grande
+IFRS - Rolante;IFRS;instituto federal;2017;4316006;Rolante
+IFRS - Sertão;IFRS;instituto federal;2008;4320503;Sertão
+IFRS - Vacaria;IFRS;instituto federal;2016;4322509;Vacaria
+IFRS - Veranópolis;IFRS;instituto federal;2018;4322806;Veranópolis
+IFRS - Viamão;IFRS;instituto federal;2017;4323002;Viamão
+IFS - Aracaju;IFS;instituto federal;2008;2800308;Aracaju
+IFS - Estância;IFS;instituto federal;2014;2802106;Estância
+IFS - Itabaiana;IFS;instituto federal;2014;2802908;Itabaiana
+IFS - Lagarto;IFS;instituto federal;2008;2803500;Lagarto
+IFS - Nossa Senhora da Glória;IFS;instituto federal;2012;2804508;Nossa Senhora da Glória
+IFS - Propriá;IFS;instituto federal;2019;2805703;Propriá
+IFS - São Cristóvão;IFS;instituto federal;2010;2806701;São Cristóvão
+IFSC - Araranguá;IFSC;instituto federal;2009;4201406;Araranguá
+IFSC - Canoinhas;IFSC;instituto federal;2015;4203808;Canoinhas
+IFSC - Caçador;IFSC;instituto federal;2016;4203006;Caçador
+IFSC - Chapecó;IFSC;instituto federal;2011;4204202;Chapecó
+IFSC - Criciúma;IFSC;instituto federal;2015;4204608;Criciúma
+IFSC - Florianópolis;IFSC;instituto federal;2008;4205407;Florianópolis
+IFSC - Garopaba;IFSC;instituto federal;2017;4205704;Garopaba
+IFSC - Gaspar;IFSC;instituto federal;2015;4205902;Gaspar
+IFSC - Itajaí;IFSC;instituto federal;2015;4208203;Itajaí
+IFSC - Jaraguá do Sul;IFSC;instituto federal;2009;4208906;Jaraguá do Sul
+IFSC - Joinville;IFSC;instituto federal;2009;4209102;Joinville
+IFSC - Lages;IFSC;instituto federal;2015;4209300;Lages
+IFSC - Palhoça;IFSC;instituto federal;2015;4211900;Palhoça
+IFSC - São Carlos;IFSC;instituto federal;2018;4216008;São Carlos
+IFSC - São José;IFSC;instituto federal;2008;4216602;São José
+IFSC - São Miguel do Oeste;IFSC;instituto federal;2015;4217204;São Miguel do Oeste
+IFSC - Tubarão;IFSC;instituto federal;2017;4218707;Tubarão
+IFSC - Urupema;IFSC;instituto federal;2015;4218954;Urupema
+IFSC - Xanxerê;IFSC;instituto federal;2016;4219507;Xanxerê
+IFSEMG - Barbacena;IFSEMG;instituto federal;2008;3105608;Barbacena
+IFSEMG - Bom Sucesso;IFSEMG;instituto federal;2018;3108008;Bom Sucesso
+IFSEMG - Juiz de Fora;IFSEMG;instituto federal;2009;3136702;Juiz de Fora
+IFSEMG - Manhuaçu;IFSEMG;instituto federal;2021;3139409;Manhuaçu
+IFSEMG - Muriaé;IFSEMG;instituto federal;2010;3143906;Muriaé
+IFSEMG - Rio Pomba;IFSEMG;instituto federal;2008;3155801;Rio Pomba
+IFSEMG - Santos Dumont;IFSEMG;instituto federal;2018;3160702;Santos Dumont
+IFSEMG - São João del Rei;IFSEMG;instituto federal;2012;3162500;São João del Rei
+IFSP - Araraquara;IFSP;instituto federal;2011;3503208;Araraquara
+IFSP - Avaré;IFSP;instituto federal;2014;3504503;Avaré
+IFSP - Barretos;IFSP;instituto federal;2012;3505500;Barretos
+IFSP - Birigui;IFSP;instituto federal;2011;3506508;Birigui
+IFSP - Boituva;IFSP;instituto federal;2013;3507001;Boituva
+IFSP - Bragança Paulista;IFSP;instituto federal;2009;3507605;Bragança Paulista
+IFSP - Campinas;IFSP;instituto federal;2013;3509502;Campinas
+IFSP - Campos do Jordão;IFSP;instituto federal;2012;3509700;Campos do Jordão
+IFSP - Capivari;IFSP;instituto federal;2013;3510401;Capivari
+IFSP - Caraguatatuba;IFSP;instituto federal;2011;3510500;Caraguatatuba
+IFSP - Catanduva;IFSP;instituto federal;2012;3511102;Catanduva
+IFSP - Cubatão;IFSP;instituto federal;2008;3513504;Cubatão
+IFSP - Guarulhos;IFSP;instituto federal;2009;3518800;Guarulhos
+IFSP - Hortolândia;IFSP;instituto federal;2013;3519071;Hortolândia
+IFSP - Itapetininga;IFSP;instituto federal;2010;3522307;Itapetininga
+IFSP - Itaquaquecetuba;IFSP;instituto federal;2018;3523107;Itaquaquecetuba
+IFSP - Jacareí;IFSP;instituto federal;2015;3524402;Jacareí
+IFSP - Matão;IFSP;instituto federal;2010;3529302;Matão
+IFSP - Piracicaba;IFSP;instituto federal;2012;3538709;Piracicaba
+IFSP - Presidente Epitácio;IFSP;instituto federal;2012;3541307;Presidente Epitácio
+IFSP - Registro;IFSP;instituto federal;2016;3542602;Registro
+IFSP - Salto;IFSP;instituto federal;2009;3545209;Salto
+IFSP - Sertãozinho;IFSP;instituto federal;2008;3551702;Sertãozinho
+IFSP - Sorocaba;IFSP;instituto federal;2018;3552205;Sorocaba
+IFSP - Suzano;IFSP;instituto federal;2014;3552502;Suzano
+IFSP - São Carlos;IFSP;instituto federal;2009;3548906;São Carlos
+IFSP - São José dos Campos;IFSP;instituto federal;2016;3549904;São José dos Campos
+IFSP - São João da Boa Vista;IFSP;instituto federal;2009;3549102;São João da Boa Vista
+IFSP - São Paulo;IFSP;instituto federal;2008;3550308;São Paulo
+IFSP - São Roque;IFSP;instituto federal;2010;3550605;São Roque
+IFSP - Votuporanga;IFSP;instituto federal;2014;3557105;Votuporanga
+IFSul - Bagé;IFSul;instituto federal;2015;4301602;Bagé
+IFSul - Camaquã;IFSul;instituto federal;2016;4303509;Camaquã
+IFSul - Charqueadas;IFSul;instituto federal;2011;4305355;Charqueadas
+IFSul - Gravataí;IFSul;instituto federal;2020;4309209;Gravataí
+IFSul - Lajeado;IFSul;instituto federal;2020;4311403;Lajeado
+IFSul - Passo Fundo;IFSul;instituto federal;2009;4314100;Passo Fundo
+IFSul - Pelotas;IFSul;instituto federal;2008;4314407;Pelotas
+IFSul - Sant'Ana do Livramento;IFSul;instituto federal;2019;4317103;Sant'Ana do Livramento
+IFSul - Sapucaia do Sul;IFSul;instituto federal;2008;4320008;Sapucaia do Sul
+IFSul - Venâncio Aires;IFSul;instituto federal;2022;4322608;Venâncio Aires
+IFTM - Ituiutaba;IFTM;instituto federal;2012;3134202;Ituiutaba
+IFTM - Paracatu;IFTM;instituto federal;2011;3147006;Paracatu
+IFTM - Patos de Minas;IFTM;instituto federal;2020;3148004;Patos de Minas
+IFTM - Patrocínio;IFTM;instituto federal;2010;3148103;Patrocínio
+IFTM - Uberaba;IFTM;instituto federal;2008;3170107;Uberaba
+IFTM - Uberlândia;IFTM;instituto federal;2008;3170206;Uberlândia
+IFTO - Araguatins;IFTO;instituto federal;2009;1702208;Araguatins
+IFTO - Araguaína;IFTO;instituto federal;2015;1702109;Araguaína
+IFTO - Colinas do Tocantins;IFTO;instituto federal;2016;1705508;Colinas do Tocantins
+IFTO - Dianópolis;IFTO;instituto federal;2014;1707009;Dianópolis
+IFTO - Gurupi;IFTO;instituto federal;2010;1709500;Gurupi
+IFTO - Lagoa da Confusão;IFTO;instituto federal;2019;1711902;Lagoa da Confusão
+IFTO - Palmas;IFTO;instituto federal;2008;1721000;Palmas
+IFTO - Paraíso do Tocantins;IFTO;instituto federal;2010;1716109;Paraíso do Tocantins
+IFTO - Pedro Afonso;IFTO;instituto federal;2019;1716505;Pedro Afonso
+IFTO - Porto Nacional;IFTO;instituto federal;2010;1718204;Porto Nacional
+UFABC - Santo André;UFABC;universidade;2008;3547809;Santo André
+UFABC - São Bernardo do Campo;UFABC;universidade;2010;3548708;São Bernardo do Campo
+UFAC - Brasiléia;UFAC;universidade;2008;1200104;Brasiléia
+UFAC - Cruzeiro do Sul;UFAC;universidade;2008;1200203;Cruzeiro do Sul
+UFAC - Rio Branco;UFAC;universidade;2008;1200401;Rio Branco
+UFAL - Arapiraca;UFAL;universidade;2008;2700300;Arapiraca
+UFAL - Delmiro Gouveia;UFAL;universidade;2010;2702405;Delmiro Gouveia
+UFAL - Maceió;UFAL;universidade;2008;2704302;Maceió
+UFAL - Palmeira dos Índios;UFAL;universidade;2009;2706307;Palmeira dos Índios
+UFAL - Penedo;UFAL;universidade;2009;2706703;Penedo
+UFAL - Rio Largo;UFAL;universidade;2008;2707701;Rio Largo
+UFAL - Santana do Ipanema;UFAL;universidade;2011;2708006;Santana do Ipanema
+UFAL - Viçosa;UFAL;universidade;2009;2709400;Viçosa
+UFAM - Benjamin Constant;UFAM;universidade;2008;1300607;Benjamin Constant
+UFAM - Coari;UFAM;universidade;2008;1301209;Coari
+UFAM - Humaitá;UFAM;universidade;2008;1301704;Humaitá
+UFAM - Itacoatiara;UFAM;universidade;2008;1301902;Itacoatiara
+UFAM - Manaus;UFAM;universidade;2008;1302603;Manaus
+UFAM - Parintins;UFAM;universidade;2008;1303403;Parintins
+UFAPE - Garanhuns;UFAPE;universidade;2020;2606002;Garanhuns
+UFBA - Camaçari;UFBA;universidade;2018;2905701;Camaçari
+UFBA - Salvador;UFBA;universidade;2008;2927408;Salvador
+UFBA - Vitória da Conquista;UFBA;universidade;2008;2933307;Vitória da Conquista
+UFC - Crateús;UFC;universidade;2014;2304103;Crateús
+UFC - Fortaleza;UFC;universidade;2008;2304400;Fortaleza
+UFC - Itapajé;UFC;universidade;2021;2306306;Itapajé
+UFC - Quixadá;UFC;universidade;2008;2311306;Quixadá
+UFC - Russas;UFC;universidade;2014;2311801;Russas
+UFC - Sobral;UFC;universidade;2008;2312908;Sobral
+UFCA - Barbalha;UFCA;universidade;2013;2301901;Barbalha
+UFCA - Brejo Santo;UFCA;universidade;2014;2302503;Brejo Santo
+UFCA - Crato;UFCA;universidade;2015;2304202;Crato
+UFCA - Juazeiro do Norte;UFCA;universidade;2013;2307304;Juazeiro do Norte
+UFCAT - Catalão;UFCAT;universidade;2020;5205109;Catalão
+UFCG - Cajazeiras;UFCG;universidade;2008;2503704;Cajazeiras
+UFCG - Campina Grande;UFCG;universidade;2008;2504009;Campina Grande
+UFCG - Cuité;UFCG;universidade;2008;2505105;Cuité
+UFCG - Patos;UFCG;universidade;2008;2510808;Patos
+UFCG - Pombal;UFCG;universidade;2008;2512101;Pombal
+UFCG - Sousa;UFCG;universidade;2008;2516201;Sousa
+UFCG - Sumé;UFCG;universidade;2009;2516300;Sumé
+UFCSPA - Porto Alegre;UFCSPA;universidade;2008;4314902;Porto Alegre
+UFDPAR - Parnaíba;UFDPAR;universidade;2020;2207702;Parnaíba
+UFERSA - Angicos;UFERSA;universidade;2009;2400802;Angicos
+UFERSA - Caraúbas;UFERSA;universidade;2010;2402303;Caraúbas
+UFERSA - Mossoró;UFERSA;universidade;2008;2408003;Mossoró
+UFERSA - Pau dos Ferros;UFERSA;universidade;2012;2409407;Pau dos Ferros
+UFES - Alegre;UFES;universidade;2008;3200201;Alegre
+UFES - São Mateus;UFES;universidade;2008;3204906;São Mateus
+UFES - Vitória;UFES;universidade;2008;3205309;Vitória
+UFF - Angra dos Reis;UFF;universidade;2008;3300100;Angra dos Reis
+UFF - Campos dos Goytacazes;UFF;universidade;2008;3301009;Campos dos Goytacazes
+UFF - Macaé;UFF;universidade;2008;3302403;Macaé
+UFF - Niterói;UFF;universidade;2008;3303302;Niterói
+UFF - Nova Friburgo;UFF;universidade;2008;3303401;Nova Friburgo
+UFF - Petrópolis;UFF;universidade;2015;3303906;Petrópolis
+UFF - Rio das Ostras;UFF;universidade;2008;3304524;Rio das Ostras
+UFF - Santo Antônio de Pádua;UFF;universidade;2008;3304706;Santo Antônio de Pádua
+UFF - Volta Redonda;UFF;universidade;2008;3306305;Volta Redonda
+UFFS - Cerro Largo;UFFS;universidade;2010;4305207;Cerro Largo
+UFFS - Chapecó;UFFS;universidade;2010;4204202;Chapecó
+UFFS - Erechim;UFFS;universidade;2010;4307005;Erechim
+UFFS - Laranjeiras do Sul;UFFS;universidade;2010;4113304;Laranjeiras do Sul
+UFFS - Passo Fundo;UFFS;universidade;2013;4314100;Passo Fundo
+UFFS - Realeza;UFFS;universidade;2010;4121406;Realeza
+UFG - Aparecida de Goiânia;UFG;universidade;2014;5201405;Aparecida de Goiânia
+UFG - Goiás;UFG;universidade;2008;5208905;Goiás
+UFG - Goiânia;UFG;universidade;2008;5208707;Goiânia
+UFGD - Dourados;UFGD;universidade;2008;5003702;Dourados
+UFJ - Jataí;UFJ;universidade;2020;5211909;Jataí
+UFJF - Governador Valadares;UFJF;universidade;2013;3127701;Governador Valadares
+UFJF - Juiz de Fora;UFJF;universidade;2008;3136702;Juiz de Fora
+UFLA - Lavras;UFLA;universidade;2008;3138203;Lavras
+UFLA - São Sebastião do Paraíso;UFLA;universidade;2022;3164704;São Sebastião do Paraíso
+UFMA - Bacabal;UFMA;universidade;2009;2101202;Bacabal
+UFMA - Balsas;UFMA;universidade;2013;2101400;Balsas
+UFMA - Chapadinha;UFMA;universidade;2008;2103208;Chapadinha
+UFMA - Codó;UFMA;universidade;2008;2103307;Codó
+UFMA - Grajaú;UFMA;universidade;2010;2104800;Grajaú
+UFMA - Imperatriz;UFMA;universidade;2008;2105302;Imperatriz
+UFMA - Pinheiro;UFMA;universidade;2010;2108603;Pinheiro
+UFMA - São Bernardo;UFMA;universidade;2010;2110609;São Bernardo
+UFMA - São Luís;UFMA;universidade;2008;2111300;São Luís
+UFMG - Belo Horizonte;UFMG;universidade;2008;3106200;Belo Horizonte
+UFMG - Montes Claros;UFMG;universidade;2008;3143302;Montes Claros
+UFMS - Aquidauana;UFMS;universidade;2008;5001102;Aquidauana
+UFMS - Campo Grande;UFMS;universidade;2008;5002704;Campo Grande
+UFMS - Chapadão do Sul;UFMS;universidade;2008;5002951;Chapadão do Sul
+UFMS - Corumbá;UFMS;universidade;2008;5003207;Corumbá
+UFMS - Coxim;UFMS;universidade;2008;5003306;Coxim
+UFMS - Naviraí;UFMS;universidade;2009;5005707;Naviraí
+UFMS - Nova Andradina;UFMS;universidade;2008;5006200;Nova Andradina
+UFMS - Paranaíba;UFMS;universidade;2008;5006309;Paranaíba
+UFMS - Ponta Porã;UFMS;universidade;2009;5006606;Ponta Porã
+UFMS - Três Lagoas;UFMS;universidade;2008;5008305;Três Lagoas
+UFMT - Barra do Garças;UFMT;universidade;2009;5101803;Barra do Garças
+UFMT - Cuiabá;UFMT;universidade;2008;5103403;Cuiabá
+UFMT - Pontal do Araguaia;UFMT;universidade;2008;5106653;Pontal do Araguaia
+UFMT - Sinop;UFMT;universidade;2008;5107909;Sinop
+UFMT - Várzea Grande;UFMT;universidade;2014;5108402;Várzea Grande
+UFNT - Araguaína;UFNT;universidade;2023;1702109;Araguaína
+UFNT - Tocantinópolis;UFNT;universidade;2023;1721208;Tocantinópolis
+UFOB - Barra;UFOB;universidade;2014;2902708;Barra
+UFOB - Barreiras;UFOB;universidade;2013;2903201;Barreiras
+UFOB - Bom Jesus da Lapa;UFOB;universidade;2014;2903904;Bom Jesus da Lapa
+UFOB - Luís Eduardo Magalhães;UFOB;universidade;2014;2919553;Luís Eduardo Magalhães
+UFOB - Santa Maria da Vitória;UFOB;universidade;2014;2928109;Santa Maria da Vitória
+UFOP - João Monlevade;UFOP;universidade;2008;3136207;João Monlevade
+UFOP - Mariana;UFOP;universidade;2008;3140001;Mariana
+UFOP - Ouro Preto;UFOP;universidade;2008;3146107;Ouro Preto
+UFOPA - Alenquer;UFOPA;universidade;2017;1500404;Alenquer
+UFOPA - Itaituba;UFOPA;universidade;2017;1503606;Itaituba
+UFOPA - Juruti;UFOPA;universidade;2017;1503903;Juruti
+UFOPA - Monte Alegre;UFOPA;universidade;2017;1504802;Monte Alegre
+UFOPA - Oriximiná;UFOPA;universidade;2017;1505304;Oriximiná
+UFOPA - Santarém;UFOPA;universidade;2010;1506807;Santarém
+UFOPA - Óbidos;UFOPA;universidade;2017;1505106;Óbidos
+UFPA - Abaetetuba;UFPA;universidade;2008;1500107;Abaetetuba
+UFPA - Altamira;UFPA;universidade;2008;1500602;Altamira
+UFPA - Ananindeua;UFPA;universidade;2014;1500800;Ananindeua
+UFPA - Belém;UFPA;universidade;2008;1501402;Belém
+UFPA - Bragança;UFPA;universidade;2008;1501709;Bragança
+UFPA - Breves;UFPA;universidade;2008;1501808;Breves
+UFPA - Cametá;UFPA;universidade;2008;1502103;Cametá
+UFPA - Castanhal;UFPA;universidade;2008;1502400;Castanhal
+UFPA - Salinópolis;UFPA;universidade;2015;1506203;Salinópolis
+UFPA - Soure;UFPA;universidade;2008;1507904;Soure
+UFPA - Tucuruí;UFPA;universidade;2008;1508100;Tucuruí
+UFPB - Areia;UFPB;universidade;2008;2501104;Areia
+UFPB - Bananeiras;UFPB;universidade;2008;2501500;Bananeiras
+UFPB - João Pessoa;UFPB;universidade;2008;2507507;João Pessoa
+UFPB - Mamanguape;UFPB;universidade;2008;2508901;Mamanguape
+UFPB - Rio Tinto;UFPB;universidade;2008;2512903;Rio Tinto
+UFPB - Santa Rita;UFPB;universidade;2020;2513703;Santa Rita
+UFPE - Caruaru;UFPE;universidade;2008;2604106;Caruaru
+UFPE - Recife;UFPE;universidade;2008;2611606;Recife
+UFPE - Vitória de Santo Antão;UFPE;universidade;2008;2616407;Vitória de Santo Antão
+UFPEL - Capão do Leão;UFPEL;universidade;2008;4304663;Capão do Leão
+UFPEL - Eldorado do Sul;UFPEL;universidade;2011;4306767;Eldorado do Sul
+UFPEL - Pelotas;UFPEL;universidade;2008;4314407;Pelotas
+UFPI - Bom Jesus;UFPI;universidade;2008;2201903;Bom Jesus
+UFPI - Floriano;UFPI;universidade;2008;2203909;Floriano
+UFPI - Picos;UFPI;universidade;2008;2208007;Picos
+UFPI - Teresina;UFPI;universidade;2008;2211001;Teresina
+UFPR - Curitiba;UFPR;universidade;2008;4106902;Curitiba
+UFPR - Jandaia do Sul;UFPR;universidade;2014;4112108;Jandaia do Sul
+UFPR - Matinhos;UFPR;universidade;2008;4115705;Matinhos
+UFPR - Palotina;UFPR;universidade;2008;4117909;Palotina
+UFPR - Pontal do Paraná;UFPR;universidade;2008;4119954;Pontal do Paraná
+UFPR - Toledo;UFPR;universidade;2018;4127700;Toledo
+UFR - Rondonópolis;UFR;universidade;2020;5107602;Rondonópolis
+UFRA - Belém;UFRA;universidade;2008;1501402;Belém
+UFRA - Capanema;UFRA;universidade;2013;1502202;Capanema
+UFRA - Capitão Poço;UFRA;universidade;2008;1502301;Capitão Poço
+UFRA - Paragominas;UFRA;universidade;2008;1505502;Paragominas
+UFRA - Parauapebas;UFRA;universidade;2008;1505536;Parauapebas
+UFRA - Tomé-Açu;UFRA;universidade;2014;1508001;Tomé-Açu
+UFRB - Amargosa;UFRB;universidade;2008;2901007;Amargosa
+UFRB - Cachoeira;UFRB;universidade;2008;2904902;Cachoeira
+UFRB - Cruz das Almas;UFRB;universidade;2008;2909802;Cruz das Almas
+UFRB - Feira de Santana;UFRB;universidade;2013;2910800;Feira de Santana
+UFRB - Santo Amaro;UFRB;universidade;2014;2928604;Santo Amaro
+UFRB - Santo Antônio de Jesus;UFRB;universidade;2008;2928703;Santo Antônio de Jesus
+UFRGS - Imbé;UFRGS;universidade;2008;4310330;Imbé
+UFRGS - Porto Alegre;UFRGS;universidade;2008;4314902;Porto Alegre
+UFRGS - Tramandaí;UFRGS;universidade;2014;4321600;Tramandaí
+UFRJ - Duque de Caxias;UFRJ;universidade;2008;3301702;Duque de Caxias
+UFRJ - Macaé;UFRJ;universidade;2008;3302403;Macaé
+UFRJ - Rio de Janeiro;UFRJ;universidade;2008;3304557;Rio de Janeiro
+UFRN - Caicó;UFRN;universidade;2008;2402006;Caicó
+UFRN - Currais Novos;UFRN;universidade;2008;2403103;Currais Novos
+UFRN - Macaíba;UFRN;universidade;2009;2407104;Macaíba
+UFRN - Natal;UFRN;universidade;2008;2408102;Natal
+UFRN - Santa Cruz;UFRN;universidade;2008;2411205;Santa Cruz
+UFRPE - Belo Jardim;UFRPE;universidade;2020;2601706;Belo Jardim
+UFRPE - Cabo de Santo Agostinho;UFRPE;universidade;2014;2602902;Cabo de Santo Agostinho
+UFRPE - Recife;UFRPE;universidade;2008;2611606;Recife
+UFRPE - Serra Talhada;UFRPE;universidade;2008;2613909;Serra Talhada
+UFRR - Boa Vista;UFRR;universidade;2008;1400100;Boa Vista
+UFRRJ - Nova Iguaçu;UFRRJ;universidade;2008;3303500;Nova Iguaçu
+UFRRJ - Seropédica;UFRRJ;universidade;2008;3305554;Seropédica
+UFRRJ - Três Rios;UFRRJ;universidade;2009;3306008;Três Rios
+UFS - Aracaju;UFS;universidade;2008;2800308;Aracaju
+UFS - Itabaiana;UFS;universidade;2008;2802908;Itabaiana
+UFS - Lagarto;UFS;universidade;2011;2803500;Lagarto
+UFS - Laranjeiras;UFS;universidade;2008;2803609;Laranjeiras
+UFS - Nossa Senhora da Glória;UFS;universidade;2015;2804508;Nossa Senhora da Glória
+UFS - São Cristóvão;UFS;universidade;2008;2806701;São Cristóvão
+UFSB - Itabuna;UFSB;universidade;2014;2914802;Itabuna
+UFSB - Porto Seguro;UFSB;universidade;2014;2925303;Porto Seguro
+UFSB - Teixeira de Freitas;UFSB;universidade;2014;2931350;Teixeira de Freitas
+UFSC - Araranguá;UFSC;universidade;2009;4201406;Araranguá
+UFSC - Blumenau;UFSC;universidade;2014;4202404;Blumenau
+UFSC - Curitibanos;UFSC;universidade;2009;4204806;Curitibanos
+UFSC - Florianópolis;UFSC;universidade;2008;4205407;Florianópolis
+UFSC - Joinville;UFSC;universidade;2009;4209102;Joinville
+UFSCAR - Araras;UFSCAR;universidade;2008;3503307;Araras
+UFSCAR - Buri;UFSCAR;universidade;2014;3508009;Buri
+UFSCAR - Sorocaba;UFSCAR;universidade;2008;3552205;Sorocaba
+UFSCAR - São Carlos;UFSCAR;universidade;2008;3548906;São Carlos
+UFSJ - Divinópolis;UFSJ;universidade;2008;3122306;Divinópolis
+UFSJ - Ouro Branco;UFSJ;universidade;2008;3145901;Ouro Branco
+UFSJ - Sete Lagoas;UFSJ;universidade;2009;3167202;Sete Lagoas
+UFSJ - São João del Rei;UFSJ;universidade;2008;3162500;São João del Rei
+UFSM - Cachoeira do Sul;UFSM;universidade;2014;4303004;Cachoeira do Sul
+UFSM - Frederico Westphalen;UFSM;universidade;2008;4308508;Frederico Westphalen
+UFSM - Palmeira das Missões;UFSM;universidade;2008;4313706;Palmeira das Missões
+UFSM - Santa Maria;UFSM;universidade;2008;4316907;Santa Maria
+UFT - Arraias;UFT;universidade;2008;1702406;Arraias
+UFT - Gurupi;UFT;universidade;2008;1709500;Gurupi
+UFT - Miracema do Tocantins;UFT;universidade;2008;1713205;Miracema do Tocantins
+UFT - Palmas;UFT;universidade;2008;1721000;Palmas
+UFT - Porto Nacional;UFT;universidade;2008;1718204;Porto Nacional
+UFTM - Iturama;UFTM;universidade;2015;3134400;Iturama
+UFTM - Uberaba;UFTM;universidade;2008;3170107;Uberaba
+UFU - Ituiutaba;UFU;universidade;2008;3134202;Ituiutaba
+UFU - Monte Carmelo;UFU;universidade;2011;3143104;Monte Carmelo
+UFU - Patos de Minas;UFU;universidade;2011;3148004;Patos de Minas
+UFU - Uberlândia;UFU;universidade;2008;3170206;Uberlândia
+UFV - Florestal;UFV;universidade;2008;3126000;Florestal
+UFV - Rio Paranaíba;UFV;universidade;2008;3155504;Rio Paranaíba
+UFV - Viçosa;UFV;universidade;2008;3171303;Viçosa
+UFVJM - Diamantina;UFVJM;universidade;2008;3121605;Diamantina
+UFVJM - Janaúba;UFVJM;universidade;2014;3135100;Janaúba
+UFVJM - Teófilo Otoni;UFVJM;universidade;2008;3168606;Teófilo Otoni
+UFVJM - Unaí;UFVJM;universidade;2014;3170404;Unaí
+UNB - Brasília;UNB;universidade;2008;5300108;Brasília
+UNIFAL-MG - Alfenas;UNIFAL-MG;universidade;2008;3101607;Alfenas
+UNIFAL-MG - Poços de Caldas;UNIFAL-MG;universidade;2010;3151800;Poços de Caldas
+UNIFAL-MG - Varginha;UNIFAL-MG;universidade;2009;3170701;Varginha
+UNIFAP - Macapá;UNIFAP;universidade;2008;1600303;Macapá
+UNIFAP - Mazagão;UNIFAP;universidade;2014;1600402;Mazagão
+UNIFAP - Oiapoque;UNIFAP;universidade;2008;1600501;Oiapoque
+UNIFAP - Santana;UNIFAP;universidade;2008;1600600;Santana
+UNIFEI - Itabira;UNIFEI;universidade;2008;3131703;Itabira
+UNIFEI - Itajubá;UNIFEI;universidade;2008;3132404;Itajubá
+UNIFESP - Diadema;UNIFESP;universidade;2008;3513801;Diadema
+UNIFESP - Guarulhos;UNIFESP;universidade;2008;3518800;Guarulhos
+UNIFESP - Osasco;UNIFESP;universidade;2011;3534401;Osasco
+UNIFESP - Santos;UNIFESP;universidade;2008;3548500;Santos
+UNIFESP - São José dos Campos;UNIFESP;universidade;2008;3549904;São José dos Campos
+UNIFESP - São Paulo;UNIFESP;universidade;2008;3550308;São Paulo
+UNIFESSPA - Marabá;UNIFESSPA;universidade;2013;1504208;Marabá
+UNIFESSPA - Rondon do Pará;UNIFESSPA;universidade;2013;1506187;Rondon do Pará
+UNIFESSPA - Santana do Araguaia;UNIFESSPA;universidade;2014;1506708;Santana do Araguaia
+UNIFESSPA - São Félix do Xingu;UNIFESSPA;universidade;2014;1507300;São Félix do Xingu
+UNIFESSPA - Xinguara;UNIFESSPA;universidade;2013;1508407;Xinguara
+UNILA - Foz do Iguaçu;UNILA;universidade;2010;4108304;Foz do Iguaçu
+UNILAB - Redenção;UNILAB;universidade;2011;2311603;Redenção
+UNILAB - São Francisco do Conde;UNILAB;universidade;2014;2929206;São Francisco do Conde
+UNIPAMPA - Alegrete;UNIPAMPA;universidade;2008;4300406;Alegrete
+UNIPAMPA - Bagé;UNIPAMPA;universidade;2008;4301602;Bagé
+UNIPAMPA - Caçapava do Sul;UNIPAMPA;universidade;2008;4302808;Caçapava do Sul
+UNIPAMPA - Dom Pedrito;UNIPAMPA;universidade;2008;4306601;Dom Pedrito
+UNIPAMPA - Itaqui;UNIPAMPA;universidade;2008;4310603;Itaqui
+UNIPAMPA - Jaguarão;UNIPAMPA;universidade;2008;4311007;Jaguarão
+UNIPAMPA - Sant'Ana do Livramento;UNIPAMPA;universidade;2008;4317103;Sant'Ana do Livramento
+UNIPAMPA - São Borja;UNIPAMPA;universidade;2008;4318002;São Borja
+UNIPAMPA - São Gabriel;UNIPAMPA;universidade;2008;4318309;São Gabriel
+UNIPAMPA - Uruguaiana;UNIPAMPA;universidade;2008;4322400;Uruguaiana
+UNIR - Ariquemes;UNIR;universidade;2009;1100023;Ariquemes
+UNIR - Cacoal;UNIR;universidade;2008;1100049;Cacoal
+UNIR - Guajará-Mirim;UNIR;universidade;2008;1100106;Guajará-Mirim
+UNIR - Ji-Paraná;UNIR;universidade;2008;1100122;Ji-Paraná
+UNIR - Porto Velho;UNIR;universidade;2008;1100205;Porto Velho
+UNIR - Presidente Médici;UNIR;universidade;2014;1100254;Presidente Médici
+UNIR - Rolim de Moura;UNIR;universidade;2008;1100288;Rolim de Moura
+UNIR - Vilhena;UNIR;universidade;2008;1100304;Vilhena
+UNIRIO - Rio de Janeiro;UNIRIO;universidade;2008;3304557;Rio de Janeiro
+UNIVASF - Juazeiro;UNIVASF;universidade;2008;2918407;Juazeiro
+UNIVASF - Paulo Afonso;UNIVASF;universidade;2014;2924009;Paulo Afonso
+UNIVASF - Petrolina;UNIVASF;universidade;2008;2611101;Petrolina
+UNIVASF - Salgueiro;UNIVASF;universidade;2019;2612208;Salgueiro
+UNIVASF - Senhor do Bonfim;UNIVASF;universidade;2009;2930105;Senhor do Bonfim
+UNIVASF - São Raimundo Nonato;UNIVASF;universidade;2008;2210607;São Raimundo Nonato
+UTFPR - Apucarana;UTFPR;universidade;2008;4101408;Apucarana
+UTFPR - Campo Mourão;UTFPR;universidade;2008;4104303;Campo Mourão
+UTFPR - Cornélio Procópio;UTFPR;universidade;2008;4106407;Cornélio Procópio
+UTFPR - Curitiba;UTFPR;universidade;2008;4106902;Curitiba
+UTFPR - Dois Vizinhos;UTFPR;universidade;2008;4107207;Dois Vizinhos
+UTFPR - Francisco Beltrão;UTFPR;universidade;2008;4108403;Francisco Beltrão
+UTFPR - Guarapuava;UTFPR;universidade;2011;4109401;Guarapuava
+UTFPR - Londrina;UTFPR;universidade;2008;4113700;Londrina
+UTFPR - Medianeira;UTFPR;universidade;2008;4115804;Medianeira
+UTFPR - Pato Branco;UTFPR;universidade;2008;4118501;Pato Branco
+UTFPR - Ponta Grossa;UTFPR;universidade;2008;4119905;Ponta Grossa
+UTFPR - Santa Helena;UTFPR;universidade;2014;4123501;Santa Helena
+UTFPR - Toledo;UTFPR;universidade;2008;4127700;Toledo

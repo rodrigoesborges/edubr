@@ -1,11 +1,16 @@
-#' Processa arquivo CSV e dicion XLSX de resultados do idadeserie com colunas hierárquicas - NÃO TERMINADO!
+#' Processa arquivo XLS de taxas de distorção idade-série (TDI) com colunas hierárquicas
 #'
 #' @param ano character , 1997-2024
 #' @return Tibble com dados formatados
+#' @examples
+#' \dontrun{
+#' dados <- le_idadeserie(ano = 2023)
+#' head(dados)
+#' }
 #' @export
 le_idadeserie <- \(ano=2023) {
 
-  idadeseriemeta <- educabR::metainep|>dplyr::filter(grepl("Taxas de Distorção Idade-série",assunto,fixed=FALSE),grepl("Munic",tabela))
+  idadeseriemeta <- edubr::metainep|>dplyr::filter(grepl("Taxas de Distor\u00e7\u00e3o Idade-s\u00e9rie",assunto,fixed=FALSE),grepl("Munic",tabela))
 
   caminho_fonte <- (idadeseriemeta|>
     dplyr::filter(grepl(ano,tab_url)))$tab_url
@@ -20,11 +25,11 @@ le_idadeserie <- \(ano=2023) {
     while (isError(retval)) {
       attempts = attempts + 1
       if (attempts >= maxErrors) {
-        msg = sprintf("retry: too many retries [[%s]]", capture.output(str(retval)))
+        msg = sprintf("retry: too many retries [[%s]]", utils::capture.output(utils::str(retval)))
         stop(msg)
       } else {
         msg = sprintf("retry: error in attempt %i/%i [[%s]]", attempts,  maxErrors,
-                      capture.output(str(retval)))
+                      utils::capture.output(utils::str(retval)))
         warning(msg)
 
       }
@@ -34,11 +39,11 @@ le_idadeserie <- \(ano=2023) {
     return(retval)
   }
 
-  retry(download.file(caminho_fonte,f,method="curl",extra = '-k'),maxErrors = 5,sleep = 1)
+  retry(utils::download.file(caminho_fonte,f,method="curl",extra = '-k'),maxErrors = 5,sleep = 1)
 
-  availf <- unzip(f,list=T)
+  availf <- utils::unzip(f,list=T)
 
-  unzip(f,files = availf[grepl("TDI.*[^/]*xls",availf$Name),]$Name,junkpaths = T,
+  utils::unzip(f,files = availf[grepl("TDI.*[^/]*xls",availf$Name),]$Name,junkpaths = T,
         exdir = dirname(f))
 
   caminho_arquivo <-
@@ -66,7 +71,7 @@ le_idadeserie <- \(ano=2023) {
 
   # Combinar cabeçalhos hierárquicos
   colunas <- apply(cabecalho, 2, function(col) {
-    paste(na.omit(col), collapse = "_")  # Combina hierarquia com "_"
+    paste(stats::na.omit(col), collapse = "_")  # Combina hierarquia com "_"
   })
 
 
@@ -112,7 +117,7 @@ le_idadeserie <- \(ano=2023) {
       valor=as.numeric(gsub(",",".",valor)),
       ano=as.integer(ano),
       codigo_municipio=as.integer(codigo_municipio),
-      indicador = 'Taxa de Distorção Idade-Série'
+      indicador = 'Taxa de Distor\u00e7\u00e3o Idade-S\u00e9rie'
     )|>
   dplyr::left_join(dicdados)|>
     ##HARMONIZA SAÍDA COM LE_IDEB

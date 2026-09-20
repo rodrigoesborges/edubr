@@ -4,10 +4,15 @@
 #' @param nivel character, one of iniciais,finais,medio
 #' @param replica boolean, replicate value from year before on years if no index available
 #' @return Tibble com dados formatados
+#' @examples
+#' \dontrun{
+#' dados <- le_ideb(regiao = "municipios", nivel = "iniciais")
+#' head(dados)
+#' }
 #' @export
 le_ideb <- \(regiao="municipios",nivel="iniciais",replica=F) {
 
-  idebmeta <- educabR::metainep|>dplyr::filter(grepl("Ideb",assunto,fixed = F))
+  idebmeta <- edubr::metainep|>dplyr::filter(grepl("Ideb",assunto,fixed = F))
 
   caminho_fonte <- (idebmeta|>
     dplyr::filter(grepl(regiao,tab_url),grepl(nivel,tab_url)))$tab_url
@@ -21,11 +26,11 @@ le_ideb <- \(regiao="municipios",nivel="iniciais",replica=F) {
     while (isError(retval)) {
       attempts = attempts + 1
       if (attempts >= maxErrors) {
-        msg = sprintf("retry: too many retries [[%s]]", capture.output(str(retval)))
+        msg = sprintf("retry: too many retries [[%s]]", utils::capture.output(utils::str(retval)))
         stop(msg)
       } else {
         msg = sprintf("retry: error in attempt %i/%i [[%s]]", attempts,  maxErrors,
-                      capture.output(str(retval)))
+                      utils::capture.output(utils::str(retval)))
         warning(msg)
 
       }
@@ -35,11 +40,11 @@ le_ideb <- \(regiao="municipios",nivel="iniciais",replica=F) {
     return(retval)
   }
 
-  retry(download.file(caminho_fonte,f,method="curl"),maxErrors = 5,sleep = 1)
+  retry(utils::download.file(caminho_fonte,f,method="curl"),maxErrors = 5,sleep = 1)
 
-  availf <- unzip(f,list=T)
+  availf <- utils::unzip(f,list=T)
 
-  unzip(f,files = availf[grepl("xlsx",availf$Name),]$Name,junkpaths = T,
+  utils::unzip(f,files = availf[grepl("xlsx",availf$Name),]$Name,junkpaths = T,
         exdir = dirname(f))
 
   caminho_arquivo <-
@@ -61,7 +66,7 @@ le_ideb <- \(regiao="municipios",nivel="iniciais",replica=F) {
 
   # Combinar cabeçalhos hierárquicos
   colunas <- apply(cabecalho, 2, function(col) {
-    paste(na.omit(col), collapse = "_")  # Combina hierarquia com "_"
+    paste(stats::na.omit(col), collapse = "_")  # Combina hierarquia com "_"
   })
 
   # Ler dados (ignorando cabeçalhos hierárquicos)
@@ -131,7 +136,7 @@ le_ideb <- \(regiao="municipios",nivel="iniciais",replica=F) {
       ano = as.integer(ano),
       valor = as.numeric(valor),
       indicador = dplyr::case_when(
-        indicador == "vl-aprovacao" ~ "Taxa de Aprovação",
+        indicador == "vl-aprovacao" ~ "Taxa de Aprova\u00e7\u00e3o",
         grepl("indicador-rend",indicador) ~ "Indicador de Rendimento",
         indicador == "vl-nota-media" ~ "Nota SAEB",
         grepl("nota",indicador) ~ "Nota SAEB",
@@ -140,28 +145,28 @@ le_ideb <- \(regiao="municipios",nivel="iniciais",replica=F) {
         TRUE ~ indicador
       ),
       detalhe = dplyr::case_when(
-        detalhe == "1o-ao-5o-ano" ~ "1ª à 5ª Série",
-        detalhe == "1o" ~ "1ª Série",
-        detalhe == "2o" ~ "2ª Série",
-        detalhe == "3o" ~ "3ª Série",
-        detalhe == "4o" ~ "4ª Série",
-        detalhe == "5o" ~ "5ª Série",
-        detalhe == "6o-a-9o-ano" ~ "6ª à 9ª Série",
-        detalhe == "6o" ~ "6ª Série",
-        detalhe == "7o" ~ "7ª Série",
-        detalhe == "8o" ~ "8ª Série",
-        detalhe == "9o" ~ "9ª Série",
-        detalhe == "matematica" ~ "Matemática",
-        detalhe == "lingua-portuguesa" ~ "Língua Portuguesa",
-        detalhe == "1a" ~ "1ª Série do Ensino Médio",
-        detalhe == "2a" ~ "2ª Série do Ensino Médio",
-        detalhe == "3a" ~ "3ª Série do Ensino Médio",
-        detalhe == "4a" ~ "4ª Série do Ensino Médio",
-        detalhe == "total" ~ "Ensino Médio (Total)",
-        grepl("media",detalhe) ~ "Nota Média Padronidaza",
+        detalhe == "1o-ao-5o-ano" ~ "1\u00aa \u00e0 5\u00aa S\u00e9rie",
+        detalhe == "1o" ~ "1\u00aa S\u00e9rie",
+        detalhe == "2o" ~ "2\u00aa S\u00e9rie",
+        detalhe == "3o" ~ "3\u00aa S\u00e9rie",
+        detalhe == "4o" ~ "4\u00aa S\u00e9rie",
+        detalhe == "5o" ~ "5\u00aa S\u00e9rie",
+        detalhe == "6o-a-9o-ano" ~ "6\u00aa \u00e0 9\u00aa S\u00e9rie",
+        detalhe == "6o" ~ "6\u00aa S\u00e9rie",
+        detalhe == "7o" ~ "7\u00aa S\u00e9rie",
+        detalhe == "8o" ~ "8\u00aa S\u00e9rie",
+        detalhe == "9o" ~ "9\u00aa S\u00e9rie",
+        detalhe == "matematica" ~ "Matem\u00e1tica",
+        detalhe == "lingua-portuguesa" ~ "L\u00edngua Portuguesa",
+        detalhe == "1a" ~ "1\u00aa S\u00e9rie do Ensino M\u00e9dio",
+        detalhe == "2a" ~ "2\u00aa S\u00e9rie do Ensino M\u00e9dio",
+        detalhe == "3a" ~ "3\u00aa S\u00e9rie do Ensino M\u00e9dio",
+        detalhe == "4a" ~ "4\u00aa S\u00e9rie do Ensino M\u00e9dio",
+        detalhe == "total" ~ "Ensino M\u00e9dio (Total)",
+        grepl("media",detalhe) ~ "Nota M\u00e9dia Padronidaza",
         grepl("meta",detalhe) ~ "Meta para o IDEB",
         grepl("ideb",detalhe) ~ "IDEB",
-        grepl("rend",detalhe) ~ "Taxa de aprovação Média (Indicador de Rendimento)",
+        grepl("rend",detalhe) ~ "Taxa de aprova\u00e7\u00e3o M\u00e9dia (Indicador de Rendimento)",
 
         TRUE ~ detalhe
       )

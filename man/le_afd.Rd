@@ -10,7 +10,8 @@ le_afd(
   localizacoes = "total",
   dependencias = "total",
   niveis = "ensino_medio",
-  subniveis = "total"
+  subniveis = "total",
+  cache_dir = NULL
 )
 }
 \arguments{
@@ -18,17 +19,26 @@ le_afd(
 
 \item{regiao}{character , one of escolas,municipios, ufs}
 
-\item{localizacao}{character, one of "total","urbana","rural"}
+\item{localizacoes}{character, one of "total","urbana","rural"}
 
-\item{dependencia}{character, one of "total","publica","privada","estadual","municipal"}
+\item{dependencias}{character, one of "total","publica","privada","estadual","municipal"}
 
-\item{nivel}{character, one of infantil,ensino_fundamental,ensino_medio,eja_fundamental,eja_medio}
+\item{niveis}{character, one of infantil,ensino_fundamental,ensino_medio,eja_fundamental,eja_medio}
 
-\item{subnivel}{character, one of total,anos_iniciais,anos_finais}
+\item{subniveis}{character, one of total,anos_iniciais,anos_finais}
+
+\item{cache_dir}{character, optional directory to cache downloads
+(avoids re-downloading from INEP CDN which rate-limits sequential calls)}
 }
 \value{
 Tibble com dados formatados
 }
 \description{
 Processa arquivo XLSX de resultados da AFD com colunas hierárquicas
+}
+\examples{
+\dontrun{
+dados <- le_afd(ano = 2024, regiao = "municipios", niveis = "ensino_medio")
+head(dados)
+}
 }

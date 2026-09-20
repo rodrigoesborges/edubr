@@ -19,3 +19,9 @@ Tibble com dados formatados
 \description{
 Processa arquivo XLSX de resultados do IDEB com colunas hierárquicas
 }
+\examples{
+\dontrun{
+dados <- le_ideb(regiao = "municipios", nivel = "iniciais")
+head(dados)
+}
+}
