@@ -41,7 +41,7 @@ jobs:
           needs: website
 
       - name: Build site
-        run: pkgdown::build_site_github_pages(new_process = !startsWith(OS, "windows"), install = FALSE)
+        run: pkgdown::build_site_github_pages(new_process = .Platform$OS.type != "windows", install = FALSE)
         shell: Rscript {0}
 
       # pkgdown has no way to exclude root .md files (r-lib/pkgdown#2959);
