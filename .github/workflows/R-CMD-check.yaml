@@ -45,10 +45,31 @@ jobs:
           http-user-agent: ${{ matrix.config.http-user-agent }}
           use-public-rspm: true
 
+      - name: Install readxl from source
+        # CRAN's macOS arm64 binary for readxl 1.5.0.1 is zstd-compressed,
+        # which pak cannot extract. Remove this step once CRAN fixes it.
+        if: runner.os == 'macOS' && matrix.config.r == 'release'
+        shell: Rscript {0}
+        run: |
+          lib <- Sys.getenv("R_LIBS_USER")
+          if (!nzchar(lib)) {
+            lib <- file.path(
+              Sys.getenv("HOME"), "Library", "R",
+              paste(R.version$major, sub("\\..*", "", R.version$minor), sep = "."),
+              "library"
+            )
+            cat("R_LIBS_USER=", lib, "\n", sep = "",
+                file = Sys.getenv("GITHUB_ENV"), append = TRUE)
+          }
+          dir.create(lib, recursive = TRUE, showWarnings = FALSE)
+          install.packages("readxl", lib = lib, type = "source",
+                           repos = "https://cran.rstudio.com")
+
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           extra-packages: any::rcmdcheck
           needs: check
+          cache-version: 2
 
       - uses: r-lib/actions/check-r-package@v2
         with:
